@@ -1,0 +1,13 @@
+{
+  "data_dir": "/DATA/LANL/cyber1",
+  "output_dir": "/DATA/N2SF/output",
+  "sample_size": 100000,
+  "positive_size": 5000,
+  "seed": 42,
+  "proxy_split_mode": "stratified",
+  "ner_model_dir": "/MODELS/bert-base-ner",
+  "llama_model_dir": "/MODELS/Meta-Llama-3-8B-Instruct",
+  "ctgan_epochs": 300,
+  "llama_rows": 80000,
+  "llama_batch_rows": 32
+}
