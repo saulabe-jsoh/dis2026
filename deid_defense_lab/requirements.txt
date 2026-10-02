@@ -1,0 +1,8 @@
+# Python 3.10 ~ 3.12 (3.11 권장)
+pyahocorasick>=2.1.0   # 핵심 매처 (없으면 순수 파이썬 폴백: 느림)
+psutil>=5.9            # 메모리/CPU/코어 고정
+requests>=2.31         # fetch_judgments.py 에서만 사용
+
+# --- 선택: Thunder-DeID 모델 결합 실험(2단계) ---
+# torch>=2.2        (CPU 빌드: pip install torch --index-url https://download.pytorch.org/whl/cpu)
+# transformers>=4.40

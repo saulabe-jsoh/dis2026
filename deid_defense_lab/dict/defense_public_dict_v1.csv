@@ -1,0 +1,325 @@
+﻿term,category,subcategory,sensitivity,match_type,source_id,source_note,verify_status
+방위산업기술 보호법,LAW,법령명,low,exact,S01,,SRC
+방위산업기술보호법,LAW,법령명,low,exact,S01,,SRC
+방산기술보호법,LAW,법령명,low,exact,S01,,SRC
+방위산업기술 보호법 시행령,LAW,법령명,low,exact,S01,,SRC
+방위산업기술 지정 고시,LAW,법령명,low,exact,S01,,SRC
+방위산업기술보호지침,LAW,법령명,low,exact,S01,,SRC
+산업기술의 유출방지 및 보호에 관한 법률,LAW,법령명,low,exact,S04,,SRC
+산업기술보호법,LAW,법령명,low,exact,S04,,SRC
+국가핵심기술 지정 등에 관한 고시,LAW,법령명,low,exact,S04,,SRC
+산업기술보호지침,LAW,법령명,low,exact,S04,,SRC
+군사기밀 보호법,LAW,법령명,low,exact,S06,,GEN
+군사기밀보호법,LAW,법령명,low,exact,S06,,GEN
+군형법,LAW,법령명,low,exact,S06,,GEN
+국가보안법,LAW,법령명,low,exact,S06,,GEN
+형법 제98조,LAW,법령명,low,exact,S06,,GEN
+간첩죄,LAW,법령명,low,exact,S06,,GEN
+일반이적죄,LAW,법령명,low,exact,S06,,GEN
+군사상 기밀,LAW,법령명,low,exact,S06,,GEN
+군기누설,LAW,법령명,low,exact,S06,,GEN
+공무상비밀누설,LAW,법령명,low,exact,S06,,GEN
+부정경쟁방지 및 영업비밀보호에 관한 법률,LAW,법령명,low,exact,S09,,GEN
+부정경쟁방지법,LAW,법령명,low,exact,S09,,GEN
+영업비밀,LAW,법령명,low,exact,S09,,GEN
+영업비밀 국외누설,LAW,법령명,low,exact,S09,,GEN
+영업비밀 누설,LAW,법령명,low,exact,S09,,GEN
+대외무역법,LAW,법령명,low,exact,S09,,GEN
+전략물자,LAW,법령명,low,exact,S09,,GEN
+전략물자 수출허가,LAW,법령명,low,exact,S09,,GEN
+방위사업법,LAW,법령명,low,exact,S09,,GEN
+국가첨단전략산업 경쟁력 강화 및 보호에 관한 특별법,LAW,법령명,low,exact,S09,,GEN
+국가정보원법,LAW,법령명,low,exact,S09,,GEN
+군사기밀보호법위반,LAW,죄명,low,exact,S08,,SRC
+산업기술의유출방지및보호에관한법률위반,LAW,죄명,low,exact,S08,,SRC
+영업비밀국외누설,LAW,죄명,low,exact,S08,,SRC
+업무상배임,LAW,죄명,low,exact,S08,,SRC
+뇌물수수,LAW,죄명,low,exact,S08,,SRC
+뇌물공여,LAW,죄명,low,exact,S08,,SRC
+부정처사후수뢰,LAW,죄명,low,exact,S08,,SRC
+정보통신망법 위반,LAW,죄명,low,exact,S08,,SRC
+군사Ⅰ급 비밀,GRADE,군사기밀,mid,exact,S06,,GEN
+군사Ⅱ급 비밀,GRADE,군사기밀,mid,exact,S06,,GEN
+군사Ⅲ급 비밀,GRADE,군사기밀,mid,exact,S06,,GEN
+군사 I급 비밀,GRADE,군사기밀,mid,exact,S06,,GEN
+군사 II급 비밀,GRADE,군사기밀,mid,exact,S06,,GEN
+군사 III급 비밀,GRADE,군사기밀,mid,exact,S06,,GEN
+군사기밀,GRADE,군사기밀,mid,exact,S06,,GEN
+대외비,GRADE,군사기밀,mid,exact,S06,,GEN
+비공개 군사자료,GRADE,군사기밀,mid,exact,S06,,GEN
+군사 2급 비밀,GRADE,군사기밀,mid,exact,S06,,GEN
+군사 3급 비밀,GRADE,군사기밀,mid,exact,S06,,GEN
+방위산업기술,GRADE,기술지정,mid,exact,S01,,SRC
+방위산업기술 해당 여부 판정,GRADE,기술지정,mid,exact,S01,,SRC
+방산기술 판정,GRADE,기술지정,mid,exact,S01,,SRC
+방위산업기술 지정,GRADE,기술지정,mid,exact,S01,,SRC
+국가핵심기술,GRADE,기술지정,mid,exact,S05,,SRC
+국가핵심기술 보유기관,GRADE,기술지정,mid,exact,S05,,SRC
+국가핵심기술 해외 이전,GRADE,기술지정,mid,exact,S05,,SRC
+국가핵심기술 수출 승인,GRADE,기술지정,mid,exact,S05,,SRC
+첨단기술,GRADE,기술지정,mid,exact,S05,,SRC
+산업기술,GRADE,기술지정,mid,exact,S05,,SRC
+전략기술,GRADE,기술지정,mid,exact,S05,,SRC
+국가연구개발사업 산업기술,GRADE,기술지정,mid,exact,S05,,SRC
+센서,DOMAIN,방산기술분야,mid,exact,S03,방위산업기술 지정고시 8대 분야 (2023 기준 128개 기술),SRC
+정보통신,DOMAIN,방산기술분야,mid,exact,S03,방위산업기술 지정고시 8대 분야 (2023 기준 128개 기술),SRC
+제어전자,DOMAIN,방산기술분야,mid,exact,S03,방위산업기술 지정고시 8대 분야 (2023 기준 128개 기술),SRC
+탄약/에너지,DOMAIN,방산기술분야,mid,exact,S03,방위산업기술 지정고시 8대 분야 (2023 기준 128개 기술),SRC
+추진,DOMAIN,방산기술분야,mid,exact,S03,방위산업기술 지정고시 8대 분야 (2023 기준 128개 기술),SRC
+화생방,DOMAIN,방산기술분야,mid,exact,S03,방위산업기술 지정고시 8대 분야 (2023 기준 128개 기술),SRC
+소재,DOMAIN,방산기술분야,mid,exact,S03,방위산업기술 지정고시 8대 분야 (2023 기준 128개 기술),SRC
+플랫폼/구조,DOMAIN,방산기술분야,mid,exact,S03,방위산업기술 지정고시 8대 분야 (2023 기준 128개 기술),SRC
+반도체,DOMAIN,국가핵심기술분야,mid,exact,S05,,GEN
+디스플레이,DOMAIN,국가핵심기술분야,mid,exact,S05,,GEN
+전기전자,DOMAIN,국가핵심기술분야,mid,exact,S05,,GEN
+자동차·철도,DOMAIN,국가핵심기술분야,mid,exact,S05,,GEN
+철강,DOMAIN,국가핵심기술분야,mid,exact,S05,,GEN
+조선,DOMAIN,국가핵심기술분야,mid,exact,S05,,GEN
+원자력,DOMAIN,국가핵심기술분야,mid,exact,S05,,GEN
+우주,DOMAIN,국가핵심기술분야,mid,exact,S05,,GEN
+생명공학,DOMAIN,국가핵심기술분야,mid,exact,S05,,GEN
+기계,DOMAIN,국가핵심기술분야,mid,exact,S05,,GEN
+로봇,DOMAIN,국가핵심기술분야,mid,exact,S05,,GEN
+수소,DOMAIN,국가핵심기술분야,mid,exact,S05,,SRC
+연료전지,DOMAIN,국가핵심기술분야,mid,exact,S05,,SRC
+건설·산업기계용 연료전지,DOMAIN,국가핵심기술분야,mid,exact,S05,,SRC
+고정형 연료전지,DOMAIN,국가핵심기술분야,mid,exact,S05,,SRC
+레이더,TECH,센서,high,exact,S03,,GEN
+능동위상배열레이더,TECH,센서,high,exact,S03,,GEN
+전자광학,TECH,센서,high,exact,S03,,GEN
+적외선 탐색기,TECH,센서,high,exact,S03,,GEN
+소나,TECH,센서,high,exact,S03,,GEN
+함정 소나,TECH,센서,high,exact,S03,,GEN
+탐색기,TECH,센서,high,exact,S03,,GEN
+신호처리기,TECH,센서,high,exact,S03,,GEN
+표적 탐지·추적,TECH,센서,high,exact,S03,,GEN
+전술데이터링크,TECH,통신,high,exact,S03,,GEN
+전술통신,TECH,통신,high,exact,S03,,GEN
+군용 암호장비,TECH,통신,high,exact,S03,,GEN
+암호모듈,TECH,통신,high,exact,S03,,GEN
+위성통신,TECH,통신,high,exact,S03,,GEN
+재밍,TECH,통신,high,exact,S03,,GEN
+위성항법 재밍,TECH,통신,high,exact,S03,,GEN
+전자전,TECH,통신,high,exact,S03,,GEN
+전자전 장비,TECH,통신,high,exact,S03,,GEN
+비행제어,TECH,제어전자,high,exact,S03,,GEN
+비행제어컴퓨터,TECH,제어전자,high,exact,S03,,GEN
+무인기 비행제어,TECH,제어전자,high,exact,S03,,GEN
+임무컴퓨터,TECH,제어전자,high,exact,S03,,GEN
+관성항법장치,TECH,제어전자,high,exact,S03,,GEN
+제어소프트웨어,TECH,제어전자,high,exact,S03,,GEN
+펌웨어,TECH,제어전자,high,exact,S03,,GEN
+FPGA 소스코드,TECH,제어전자,high,exact,S03,,GEN
+소스코드,TECH,제어전자,high,exact,S03,,GEN
+추진기관,TECH,추진,high,exact,S03,,GEN
+추진체,TECH,추진,high,exact,S03,,GEN
+항공기 엔진,TECH,추진,high,exact,S03,,GEN
+엔진 제어,TECH,추진,high,exact,S03,,GEN
+로켓모터,TECH,추진,high,exact,S03,,GEN
+전차 파워팩,TECH,추진,high,exact,S03,,GEN
+파워팩,TECH,추진,high,exact,S03,,GEN
+탄약,TECH,탄약에너지,high,exact,S03,,GEN
+고폭탄,TECH,탄약에너지,high,exact,S03,,GEN
+신관,TECH,탄약에너지,high,exact,S03,,GEN
+유도탄,TECH,탄약에너지,high,exact,S03,,GEN
+유도무기,TECH,탄약에너지,high,exact,S03,,GEN
+지대공유도탄,TECH,탄약에너지,high,exact,S03,,GEN
+함대함유도탄,TECH,탄약에너지,high,exact,S03,,GEN
+탄도탄 요격,TECH,탄약에너지,high,exact,S03,,GEN
+화약,TECH,탄약에너지,high,exact,S03,,GEN
+추진제,TECH,탄약에너지,high,exact,S03,,GEN
+잠수함,TECH,플랫폼,high,exact,S03,,GEN
+잠수함 소음저감,TECH,플랫폼,high,exact,S03,,GEN
+차기 잠수함,TECH,플랫폼,high,exact,S03,,GEN
+전투기,TECH,플랫폼,high,exact,S03,,GEN
+한국형전투기,TECH,플랫폼,high,exact,S03,,GEN
+헬기,TECH,플랫폼,high,exact,S03,,GEN
+전차,TECH,플랫폼,high,exact,S03,,GEN
+자주포,TECH,플랫폼,high,exact,S03,,GEN
+장갑차,TECH,플랫폼,high,exact,S03,,GEN
+구축함,TECH,플랫폼,high,exact,S03,,GEN
+호위함,TECH,플랫폼,high,exact,S03,,GEN
+함정,TECH,플랫폼,high,exact,S03,,GEN
+무인항공기,TECH,플랫폼,high,exact,S03,,GEN
+무인기,TECH,플랫폼,high,exact,S03,,GEN
+스텔스,TECH,플랫폼,high,exact,S03,,GEN
+스텔스 코팅,TECH,플랫폼,high,exact,S03,,GEN
+항만감시체계,TECH,플랫폼,high,exact,S03,,GEN
+장갑 소재,TECH,소재,high,exact,S03,,GEN
+복합소재,TECH,소재,high,exact,S03,,GEN
+특수 강판,TECH,소재,high,exact,S03,,GEN
+방탄 소재,TECH,소재,high,exact,S03,,GEN
+흡수 소재,TECH,소재,high,exact,S03,,GEN
+생화학 방호,TECH,화생방,high,exact,S03,,GEN
+탐지 장비,TECH,화생방,high,exact,S03,,GEN
+제독,TECH,화생방,high,exact,S03,,GEN
+극초음속,TECH,신개념,high,exact,S03,,GEN
+고출력 레이저,TECH,신개념,high,exact,S03,,GEN
+고출력 마이크로웨이브,TECH,신개념,high,exact,S03,,GEN
+인공지능 무기체계,TECH,신개념,high,exact,S03,,GEN
+유무인 복합체계,TECH,신개념,high,exact,S03,,GEN
+KSS-Ⅰ,TECH,공개체계명,high,exact,S08,언론·판결 공개 보도명; 사용 전 정책 확인,SRC
+KSS-I,TECH,공개체계명,high,exact,S08,언론·판결 공개 보도명; 사용 전 정책 확인,SRC
+HUSS,TECH,공개체계명,high,exact,S08,언론·판결 공개 보도명; 사용 전 정책 확인,SRC
+천궁-2,TECH,공개체계명,high,exact,S08,언론·판결 공개 보도명; 사용 전 정책 확인,SRC
+천궁,TECH,공개체계명,high,exact,S08,언론·판결 공개 보도명; 사용 전 정책 확인,SRC
+KF-21,TECH,공개체계명,high,exact,S08,언론·판결 공개 보도명; 사용 전 정책 확인,SRC
+작전운용성능,DOC,사업정보,mid,exact,S08,,SRC
+소요량,DOC,사업정보,mid,exact,S08,,SRC
+전력증강계획,DOC,사업정보,mid,exact,S08,,SRC
+성능개량,DOC,사업정보,mid,exact,S08,,SRC
+성능개량 문건,DOC,사업정보,mid,exact,S08,,SRC
+체계개발,DOC,사업정보,mid,exact,S08,,SRC
+사업 수주,DOC,사업정보,mid,exact,S08,,SRC
+무기체계,DOC,사업정보,mid,exact,S08,,SRC
+한미연합연습,DOC,사업정보,mid,exact,S08,,SRC
+유엔사 관련 자료,DOC,사업정보,mid,exact,S08,,SRC
+훈련자료,DOC,사업정보,mid,exact,S08,,SRC
+설계도면,DOC,기술자료,mid,exact,S08,,SRC
+회로도,DOC,기술자료,mid,exact,S08,,SRC
+제조공정,DOC,기술자료,mid,exact,S08,,SRC
+공정도,DOC,기술자료,mid,exact,S08,,SRC
+첨단기술 자료,DOC,기술자료,mid,exact,S08,,SRC
+기술자료,DOC,기술자료,mid,exact,S08,,SRC
+매뉴얼,DOC,기술자료,mid,exact,S08,,SRC
+장비 매뉴얼,DOC,기술자료,mid,exact,S08,,SRC
+시험성적서,DOC,기술자료,mid,exact,S08,,SRC
+분석표,DOC,기술자료,mid,exact,S08,,SRC
+범죄일람표,DOC,기술자료,mid,exact,S08,,SRC
+연구용역 결과물,DOC,기술자료,mid,exact,S08,,SRC
+연구 결과물,DOC,기술자료,mid,exact,S08,,SRC
+제안요청서,DOC,기술자료,mid,exact,S01,,GEN
+시험평가결과서,DOC,기술자료,mid,exact,S01,,GEN
+기술이전 계약서,DOC,기술자료,mid,exact,S01,,GEN
+수출허가서,DOC,기술자료,mid,exact,S01,,GEN
+체계설계서,DOC,기술자료,mid,exact,S01,,GEN
+형상관리문서,DOC,기술자료,mid,exact,S01,,GEN
+USB,CHANNEL,저장매체,mid,exact,S08,,SRC
+외장하드,CHANNEL,저장매체,mid,exact,S08,,SRC
+외장형 저장장치,CHANNEL,저장매체,mid,exact,S08,,SRC
+개인 외장하드,CHANNEL,저장매체,mid,exact,S08,,SRC
+저장매체,CHANNEL,저장매체,mid,exact,S08,,SRC
+NAS 서버,CHANNEL,저장매체,mid,exact,S08,,SRC
+압축파일,CHANNEL,저장매체,mid,exact,S08,,SRC
+개인 클라우드,CHANNEL,저장매체,mid,exact,S08,,SRC
+개인 이메일,CHANNEL,저장매체,mid,exact,S08,,SRC
+카카오톡 단체대화방,CHANNEL,저장매체,mid,exact,S08,,SRC
+메신저,CHANNEL,저장매체,mid,exact,S08,,SRC
+이메일,CHANNEL,저장매체,mid,exact,S08,,SRC
+메모지,CHANNEL,저장매체,mid,exact,S08,,SRC
+촬영,CHANNEL,저장매체,mid,exact,S08,,SRC
+몰래 가지고 나온,CHANNEL,수법,mid,exact,S08,,SRC
+유출,CHANNEL,수법,mid,exact,S08,,SRC
+누설,CHANNEL,수법,mid,exact,S08,,SRC
+탐지·수집,CHANNEL,수법,mid,exact,S08,,SRC
+탐지,CHANNEL,수법,mid,exact,S08,,SRC
+수집,CHANNEL,수법,mid,exact,S08,,SRC
+공개,CHANNEL,수법,mid,exact,S08,,SRC
+사용,CHANNEL,수법,mid,exact,S08,,SRC
+취득,CHANNEL,수법,mid,exact,S08,,SRC
+부정한 방법,CHANNEL,수법,mid,exact,S08,,SRC
+부정한 이익,CHANNEL,수법,mid,exact,S08,,SRC
+국외 유출,CHANNEL,수법,mid,exact,S08,,SRC
+해외 유출,CHANNEL,수법,mid,exact,S08,,SRC
+외국에서 사용하거나 사용되게 할 목적,CHANNEL,수법,mid,exact,S08,,SRC
+이직,CHANNEL,수법,mid,exact,S08,,SRC
+퇴사,CHANNEL,수법,mid,exact,S08,,SRC
+퇴직,CHANNEL,수법,mid,exact,S08,,SRC
+경쟁업체,CHANNEL,수법,mid,exact,S08,,SRC
+중국 업체,CHANNEL,수법,mid,exact,S08,,SRC
+중국 회사로 이직,CHANNEL,수법,mid,exact,S08,,SRC
+복사,CHANNEL,수법,mid,exact,S08,,SRC
+반출,CHANNEL,수법,mid,exact,S08,,SRC
+삭제 요구,CHANNEL,수법,mid,exact,S08,,SRC
+반환 요구,CHANNEL,수법,mid,exact,S08,,SRC
+사본 보유,CHANNEL,수법,mid,exact,S08,,SRC
+방위산업기술 보호책임자,CHANNEL,보호조치,low,exact,S02,,SRC
+보호구역,CHANNEL,보호조치,low,exact,S02,,SRC
+출입 제한,CHANNEL,보호조치,low,exact,S02,,SRC
+외부망 차단,CHANNEL,보호조치,low,exact,S02,,SRC
+비밀유지의무,CHANNEL,보호조치,low,exact,S02,,SRC
+보안서약,CHANNEL,보호조치,low,exact,S02,,SRC
+보안교육,CHANNEL,보호조치,low,exact,S02,,SRC
+이직 관리,CHANNEL,보호조치,low,exact,S02,,SRC
+휴대품 검사,CHANNEL,보호조치,low,exact,S02,,SRC
+실태조사,CHANNEL,보호조치,low,exact,S02,,SRC
+외국 업체,ACTOR,수령처,mid,exact,S08,,SRC
+외국인,ACTOR,수령처,mid,exact,S08,,SRC
+외국 정보기관,ACTOR,수령처,mid,exact,S08,,SRC
+중국 정보기관 관계자,ACTOR,수령처,mid,exact,S08,,SRC
+독일 기업,ACTOR,수령처,mid,exact,S08,,SRC
+해외 방산업체,ACTOR,수령처,mid,exact,S08,,SRC
+제3국,ACTOR,수령처,mid,exact,S08,,SRC
+무기중개업자,ACTOR,수령처,mid,exact,S08,,SRC
+방산 컨설턴트,ACTOR,수령처,mid,exact,S08,,SRC
+방위산업체,ACTOR,수령처,mid,exact,S08,,SRC
+방산업체,ACTOR,수령처,mid,exact,S08,,SRC
+협력업체,ACTOR,수령처,mid,exact,S08,,SRC
+협력업체 직원,ACTOR,수령처,mid,exact,S08,,SRC
+퇴직자,ACTOR,수령처,mid,exact,S08,,SRC
+예비역,ACTOR,수령처,mid,exact,S08,,SRC
+현역 군인,ACTOR,수령처,mid,exact,S08,,SRC
+육군 병사,ACTOR,수령처,mid,exact,S08,,SRC
+방산업체 관계자,ACTOR,수령처,mid,exact,S08,,SRC
+전직 연구원,ACTOR,수령처,mid,exact,S08,,SRC
+방위사업청,ACTOR,기관,low,exact,S01,,SRC
+방위사업청장,ACTOR,기관,low,exact,S01,,SRC
+국방부,ACTOR,기관,low,exact,S01,,SRC
+국방부장관,ACTOR,기관,low,exact,S01,,SRC
+국방기술품질원,ACTOR,기관,low,exact,S01,,SRC
+국방과학연구소,ACTOR,기관,low,exact,S01,,SRC
+국방기술진흥연구소,ACTOR,기관,low,exact,S01,,SRC
+방위산업기술지원센터,ACTOR,기관,low,exact,S01,,SRC
+방위산업기술보호센터,ACTOR,기관,low,exact,S01,,SRC
+방위산업기술 보호위원회,ACTOR,기관,low,exact,S01,,SRC
+한국방위산업진흥회,ACTOR,기관,low,exact,S01,,SRC
+산업통상자원부,ACTOR,기관,low,exact,S04,,SRC
+산업통상부,ACTOR,기관,low,exact,S04,,SRC
+산업기술보호위원회,ACTOR,기관,low,exact,S04,,SRC
+국가핵심기술위원회,ACTOR,기관,low,exact,S04,,SRC
+산업기술분쟁조정위원회,ACTOR,기관,low,exact,S04,,SRC
+한국산업기술보호협회,ACTOR,기관,low,exact,S04,,SRC
+정보수사기관,ACTOR,기관,low,exact,S04,,SRC
+국가정보원,ACTOR,기관,low,exact,S06,,GEN
+국군방첩사령부,ACTOR,기관,low,exact,S06,,GEN
+국군정보사령부,ACTOR,기관,low,exact,S06,,GEN
+합동참모본부,ACTOR,기관,low,exact,S06,,GEN
+육군,ACTOR,기관,low,exact,S06,,GEN
+해군,ACTOR,기관,low,exact,S06,,GEN
+공군,ACTOR,기관,low,exact,S06,,GEN
+해병대,ACTOR,기관,low,exact,S06,,GEN
+사이버작전사령부,ACTOR,기관,low,exact,S06,,GEN
+국가수사본부,ACTOR,기관,low,exact,S06,,GEN
+경찰청 안보수사국,ACTOR,기관,low,exact,S06,,GEN
+검찰,ACTOR,기관,low,exact,S06,,GEN
+군검찰,ACTOR,기관,low,exact,S06,,GEN
+고등군사법원,ACTOR,기관,low,exact,S06,,GEN
+보통군사법원,ACTOR,기관,low,exact,S06,,GEN
+사상·신념,PII,민감정보,high,exact,S07,,GEN
+노동조합 가입,PII,민감정보,high,exact,S07,,GEN
+정당 가입,PII,민감정보,high,exact,S07,,GEN
+정치적 견해,PII,민감정보,high,exact,S07,,GEN
+건강에 관한 정보,PII,민감정보,high,exact,S07,,GEN
+성생활,PII,민감정보,high,exact,S07,,GEN
+유전정보,PII,민감정보,high,exact,S07,,GEN
+범죄경력자료,PII,민감정보,high,exact,S07,,GEN
+생체인식정보,PII,민감정보,high,exact,S07,,GEN
+인종,PII,민감정보,high,exact,S07,,GEN
+민족,PII,민감정보,high,exact,S07,,GEN
+주민등록번호,PII,고유식별정보,high,exact,S07,,GEN
+여권번호,PII,고유식별정보,high,exact,S07,,GEN
+운전면허번호,PII,고유식별정보,high,exact,S07,,GEN
+외국인등록번호,PII,고유식별정보,high,exact,S07,,GEN
+계좌번호,PII,고유식별정보,high,exact,S07,,GEN
+휴대전화번호,PII,고유식별정보,high,exact,S07,,GEN
+주소,PII,고유식별정보,high,exact,S07,,GEN
+이메일 주소,PII,고유식별정보,high,exact,S07,,GEN
+성명,PII,고유식별정보,high,exact,S07,,GEN
+피고인,PII,고유식별정보,high,exact,S07,,GEN
+피해자,PII,고유식별정보,high,exact,S07,,GEN
+증인,PII,고유식별정보,high,exact,S07,,GEN
+참고인,PII,고유식별정보,high,exact,S07,,GEN
+\d{6}-[1-4]\d{6},PII,패턴,high,regex,S07,주민번호·휴대전화·이메일 패턴,GEN
+"01[016789]-?\d{3,4}-?\d{4}",PII,패턴,high,regex,S07,주민번호·휴대전화·이메일 패턴,GEN
+[\w.+-]+@[\w-]+\.[\w.]+,PII,패턴,high,regex,S07,주민번호·휴대전화·이메일 패턴,GEN
+\d{4}(고합|고단|노|도|재고합)\d+,CASE,사건번호패턴,low,regex,S08,판결 사건번호 패턴,GEN

@@ -1,0 +1,11 @@
+file,terms,seed_terms,synthetic_terms
+dict_010k.csv,10000,320,9680
+dict_020k.csv,20000,320,19680
+dict_030k.csv,30000,320,29680
+dict_040k.csv,40000,320,39680
+dict_050k.csv,50000,320,49680
+dict_060k.csv,60000,320,59680
+dict_070k.csv,70000,320,69680
+dict_080k.csv,80000,320,79680
+dict_090k.csv,90000,320,89680
+dict_100k.csv,100000,320,99680

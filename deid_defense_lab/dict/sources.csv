@@ -1,0 +1,11 @@
+source_id,name,type,url,accessed,note
+S01,방위산업기술 보호법(위키문헌 전문),법령,https://ko.wikisource.org/wiki/방위산업기술_보호법,2026-10-02,정의·지정(제7조) 조항
+S02,방위산업기술 보호법 시행령,법령,https://ko.wikisource.org/wiki/방위산업기술_보호법_시행령,2026-10-02,보호체계(보호책임자·보호구역·외부망 차단)
+S03,방위산업기술 8대 분야 해설(법률사무소 블로그)·KAIS 논문,2차자료,https://www.kais99.org/jkais/journal/Vol23No12/vol23no12p077.pdf,2026-10-02,지정고시 상세는 보안성 고려로 기술군 수준 공개 → 분야명만 사용
+S04,산업기술의 유출방지 및 보호에 관한 법률,법령,https://bigcase.ai/law/산업기술의유출방지및보호에관한법률,2026-10-02,산업기술·국가핵심기술 정의
+S05,국가핵심기술 지정 등에 관한 고시 관련 보도·해설,고시/2차,https://newsseoul.co.kr/news/view/1065583221225745,2026-10-02,13개 분야 76개(2024.7 개정) / 수소 분야 신설(2023.4)
+S06,군사기밀 보호법 및 관련 판례 목록(LBOX 조문 페이지),법령/판례,https://lbox.kr/v2/statute/군사기밀보호법,2026-10-02,조문 원문 대조 필요
+S07,개인정보 보호법 제23조·시행령 제18조(민감정보·고유식별정보),법령,https://www.law.go.kr,미접속,일반 법률지식 기반 → 원문 대조 필요
+S08,공개 판결문·판례속보(법원 판례속보, LBOX, CaseNote 등),판결,"https://www.scourt.go.kr, https://lbox.kr",2026-10-02,판결문 본문 표현에서 수법·자료유형 용어 추출
+S09,부정경쟁방지법·대외무역법 등,법령,https://www.law.go.kr,미접속,일반 법률지식 기반 → 원문 대조 필요
+S10,SNU Thunder-DeID 논문(595종 PII 유형),선행연구,https://aclanthology.org/2025.findings-emnlp.682,2026-10-02,PII 범주 대조 기준
